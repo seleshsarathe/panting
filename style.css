@@ -6,7 +6,7 @@
 html,body{
     width: 100%;
     height: 100%;
-    background-color: #F6F6EE;
+    background-color: #F4E7D7;
 
 
     
@@ -14,7 +14,7 @@ html,body{
 #nav{
     display: flex;
     padding: 10px 07vw;
-    background-color: #F6F6EE;
+    background-color: #F4E7D7;
     justify-content:space-between;
     align-items: center;
 }
@@ -63,13 +63,13 @@ html,body{
     padding: 10px 20px;
     border-radius: 20px;
     background-color: black;
-    color: #F6F6EE;
+    color:#F4E7D7;
     
 }
 #text0{
     height: 60vh;
     width: 100%;
-    background-color: #F6F6EE;
+    background-color:#F4E7D7;
 }
 #img img{
     width: 100%;
